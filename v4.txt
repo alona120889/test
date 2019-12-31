@@ -1,4 +1,4 @@
 bla bla
 new info new info
 
-info for new rebase
+info for bla
