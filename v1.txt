@@ -1,4 +1,0 @@
-all new
-bla bla bla
-
-branch2
