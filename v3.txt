@@ -3,3 +3,5 @@ new contents
 new branch
 contents
 bla bla
+
+branch2
